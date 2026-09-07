@@ -1,4 +1,17 @@
-   {
-     "original": "3,980",
-     "current": "2,980"
-   }
+{
+  "onSale": true,
+  "original": "3,980",
+  "current": "2,980",
+  "badge": {
+    "ja": "期間限定セール",
+    "en": "Limited-Time Sale",
+    "zh-CN": "限时特惠",
+    "zh-TW": "限時特惠"
+  },
+  "note": {
+    "ja": "今だけの特別価格です。",
+    "en": "Special price, available now only.",
+    "zh-CN": "现在是限时特价。",
+    "zh-TW": "現在是限時特價。"
+  }
+}
