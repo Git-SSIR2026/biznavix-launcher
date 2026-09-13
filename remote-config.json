@@ -25,7 +25,7 @@
   "downloadPageUrl": "https://ssir.co.jp/biznavix-launcher/",
 
   "_説明4_連絡先": "サポート窓口のメールアドレス。変更した場合、ソフトウェア内の文言（{email}というプレースホルダーを使っている箇所）に自動反映される。Supabase Edge Functions側（stripe-webhook.ts等のSMTP送信元アドレス）は別管理のため、そちらは各ファイルを直接編集してデプロイし直すこと",
-  "supportEmail": "support@ssir.co.jp",
+  "supportEmail": "support@ssir.co.",
 
   "_説明5_公式サイト専用": "ここから下は公式サイトの価格セクションだけに表示されるバッジ。ソフトウェアでは使わない",
   "webBadge": {
